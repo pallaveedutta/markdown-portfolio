@@ -1,1 +1,1 @@
-! [Pallavee's Image](https://octodex.github.com/images/yaktocat.pn)
+![Pallavee's Image](https://octodex.github.com/images/yaktocat.png)
