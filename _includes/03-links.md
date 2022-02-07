@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Learn more about [me](https://www.linkedin.com/in/pallaveedutta/)!
